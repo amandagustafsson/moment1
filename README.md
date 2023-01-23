@@ -6,4 +6,4 @@ Denna fil har skapats för att beskriva det första momentet i kursen webbutveck
   * En readme fil som introduktion till kontot.
   * Ett repository för detta moment.
   
-  För att använda detta repository så behöver du kopiera denna länk: https://github.com/amandagustafsson/moment1.git och klistra in i terminalen. Detta tillsammans med kommandot "git checkout".
+  För att använda detta repository så behöver du kopiera denna länk: https://github.com/amandagustafsson/moment1.git och klistra in i terminalen. Detta tillsammans med kommandot "git clone".
